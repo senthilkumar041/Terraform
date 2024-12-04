@@ -1,5 +1,6 @@
 provider "aws" {
-    AwsAcesskey = "AwsAcesskey"
-    Awskey = "Awskey"
+    version = "version"
+    acess_key = "acess_key"
+    secret_key = "secret_key"
     region = "us-east-1"
 }
