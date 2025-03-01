@@ -1,0 +1,3 @@
+vscode --> https://vscode.dev/github/senthilkumar041/Terraform
+jenkins --> http://52.91.28.60:8080/
+github --> https://github.com/senthilkumar041/Terraform
